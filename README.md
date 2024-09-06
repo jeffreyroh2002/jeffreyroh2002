@@ -1,4 +1,4 @@
-### Welcome! I am a CS major @Columbia interested in using ML to make the world a better place 😄
+### Welcome! I am a CS major @ Columbia interested in using ML to make the world a better place 😄
 
 <!--
 **jeffreyroh2002/jeffreyroh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
