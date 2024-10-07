@@ -1,5 +1,5 @@
 ### 🌱 Welcome! I am a Junior studying CS @ Columbia interested in using ML for problem-solving.
-### Link to ODEUM demo video: https://youtu.be/JAETPxibHOw?si=1lEeAlkShBq0txwv
+### Link to video demo of ODEUM: https://youtu.be/JAETPxibHOw?si=1lEeAlkShBq0txwv
 
 <!--
 **jeffreyroh2002/jeffreyroh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
