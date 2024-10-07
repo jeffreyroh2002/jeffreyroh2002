@@ -1,6 +1,6 @@
-### Welcome to Jeffrey's Page!
+### 🌱 Welcome to Jeffrey's Page!
 ### 🏫 CS @ Columbia University
-### Using ML to crack complex problems
+### ⚙️ Using ML to crack complex problems
 ### 🎵 Link to ODEUM demo video: https://youtu.be/JAETPxibHOw?si=1lEeAlkShBq0txwv
 
 <!--
