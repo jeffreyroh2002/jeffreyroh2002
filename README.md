@@ -2,6 +2,7 @@
 ### 🏫 CS @ Columbia University
 ### ⚙️ Using ML to crack complex problems
 ### 🎵 Link to ODEUM demo video: https://youtu.be/JAETPxibHOw?si=1lEeAlkShBq0txwv
+### 🤝 Link to NextTenant demo video: https://youtu.be/fcDzoyWZzbI
 
 <!--
 **jeffreyroh2002/jeffreyroh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
