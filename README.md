@@ -1,6 +1,6 @@
 ### 🌱 Welcome to Jeffrey's Page!
 ### 🏫 CS @ Columbia University
-### ⚙️ Using ML to crack complex problems
+### Working on: Market Data Dissemination Simulator 📈
 ### 🎵 Link to ODEUM demo video: https://youtu.be/JAETPxibHOw?si=1lEeAlkShBq0txwv
 ### 🤝 Link to NextTenant demo video: https://youtu.be/fcDzoyWZzbI
 
