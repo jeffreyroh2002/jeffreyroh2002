@@ -1,11 +1,9 @@
 ### 🌱 Welcome to Jeffrey's Page!
 ### 🏫 CS @ Columbia University
-### Working on: Market Data Dissemination Simulator 📈
+### Working on: Scout App
 ### 🎵 Link to ODEUM demo video: https://youtu.be/JAETPxibHOw?si=1lEeAlkShBq0txwv
 ### 🤝 Link to NextTenant demo video: https://youtu.be/fcDzoyWZzbI
-### 🚰 Thirsty Lion demo video
-
-### Working on Scout App
+### 🚰 Thirsty Lion demo video: https://youtu.be/5AcqNHnTUBc
 
 <!--
 **jeffreyroh2002/jeffreyroh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
