@@ -3,6 +3,9 @@
 ### Working on: Market Data Dissemination Simulator 📈
 ### 🎵 Link to ODEUM demo video: https://youtu.be/JAETPxibHOw?si=1lEeAlkShBq0txwv
 ### 🤝 Link to NextTenant demo video: https://youtu.be/fcDzoyWZzbI
+### 🚰 Thirsty Lion demo video
+
+### Working on Scout App
 
 <!--
 **jeffreyroh2002/jeffreyroh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
