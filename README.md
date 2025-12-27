@@ -1,9 +1,18 @@
-### 🌱 Welcome to Jeffrey's Page!
-### 🏫 CS @ Columbia University
-### Building: Scout App 💵 (https://github.com/jeffreyroh2002/scout) 
-### 🎵 Link to ODEUM demo video: https://youtu.be/JAETPxibHOw?si=1lEeAlkShBq0txwv
-### 🤝 Link to NextTenant demo video: https://youtu.be/fcDzoyWZzbI
-### 🚰 Thirsty Lion demo video: https://youtu.be/5AcqNHnTUBc
+# Welcome to my page!
+### I'm Jeffrey, a CS and Math student at Columbia 🦁
+LinkedIn: https://www.linkedin.com/in/jeffrey-roh/
+
+## Past Projects:
+🎵 Link to ODEUM demo video: https://youtu.be/JAETPxibHOw?si=1lEeAlkShBq0txwv
+
+🤝 Link to NextTenant demo video: https://youtu.be/fcDzoyWZzbI
+
+🚰 Thirsty Lion demo video: https://youtu.be/5AcqNHnTUBc
+
+## Currently Building:
+💵 Scout App (https://github.com/jeffreyroh2002/scout) 
+
+
 
 <!--
 **jeffreyroh2002/jeffreyroh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
