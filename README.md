@@ -1,6 +1,6 @@
 ### 🌱 Welcome to Jeffrey's Page!
 ### 🏫 CS @ Columbia University
-### Working on: Scout App
+### Building: Scout App 💵 (https://github.com/jeffreyroh2002/scout) 
 ### 🎵 Link to ODEUM demo video: https://youtu.be/JAETPxibHOw?si=1lEeAlkShBq0txwv
 ### 🤝 Link to NextTenant demo video: https://youtu.be/fcDzoyWZzbI
 ### 🚰 Thirsty Lion demo video: https://youtu.be/5AcqNHnTUBc
