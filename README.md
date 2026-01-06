@@ -2,7 +2,7 @@
 ### I'm Jeffrey, a CS and Math student at Columbia 🦁
 LinkedIn: https://www.linkedin.com/in/jeffrey-roh/
 
-## Past Projects:
+## Past Projects
 🎵 Link to ODEUM demo video: https://youtu.be/JAETPxibHOw?si=1lEeAlkShBq0txwv
 
 🤝 Link to NextTenant demo video: https://youtu.be/fcDzoyWZzbI
