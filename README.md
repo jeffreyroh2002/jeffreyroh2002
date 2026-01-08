@@ -9,7 +9,7 @@ LinkedIn: https://www.linkedin.com/in/jeffrey-roh/
 
 🚰 Thirsty Lion demo video: https://youtu.be/5AcqNHnTUBc
 
-## Currently Building:
+## Currently Building
 💵 Scout App (https://github.com/jeffreyroh2002/scout) 
 
 
